@@ -4,7 +4,7 @@ This Script notify you once the vaccination available at your place(given by you
 
 # Why I Implement This 
 
-I Just got furstrated trying and trying to schedule a vaccination for me and my family from past 2-3 weeks.
+I Just got stucked trying and trying to schedule a vaccination for me and my family from past 2-3 weeks.
 
 
 ### Prerequisites
@@ -13,7 +13,7 @@ lil-bit technical knowledge
 
 ## Running the tests
 
-1) Comment below lines
+1) Comment below lines<br/>
   r = requests.get(URL)<br/>
   data = r.json()<br/>
 2) Now uncomment for testing<br/>
