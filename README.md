@@ -22,6 +22,15 @@ lil-bit technical knowledge
   
 3) now go to your shell and type "python covin.py"<br/>
     this will ask for some inputs from user, Please provide and you are good to go.
+    <br/>
+    Some example inputs requied by this script:-<br/>
+    Type your email and press enter: sender-email@gmail.com<br/>
+    Type your password and press enter: sender-password<br/>
+    Type receiver email and press enter: receiver-email@gmail.com<br/>
+    Type Bcc email and press enter:  bcc-email@gmail.com<br/>
+    Type pincode of the place you want to schedule for and press enter: 400018<br/>
+    Type(must be numeric) till how many days starting from now you want to crawl for and press enter: 2<br/>
+    Type wait time for each execution in seconds(numeric and must be greater than 1 min i.e 60 seconds) and press enter: 2<br/>
     
 ## For real time consumption of covin APIs 
 
