@@ -4,7 +4,7 @@ This Script notify you once the vaccination available at your place(given by you
 
 # Why I Implement This 
 
-Since I got furstrated trying to schedule a vaccination for me and my family from past 2-3 weeks.
+I Just got furstrated trying and trying to schedule a vaccination for me and my family from past 2-3 weeks.
 
 
 ### Prerequisites
