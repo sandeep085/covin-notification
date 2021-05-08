@@ -1,0 +1,129 @@
+{
+	"centers": [{
+		"center_id": 174041,
+		"name": "B K Hospital",
+		"address": "B K Hospital",
+		"state_name": "Haryana",
+		"district_name": "Faridabad",
+		"block_name": "Faridabad",
+		"pincode": 121001,
+		"lat": 28,
+		"long": 77,
+		"from": "09:00:00",
+		"to": "18:00:00",
+		"fee_type": "Free",
+		"sessions": [{
+			"session_id": "5c0425d9-f159-40ac-9498-5b8a37ebb78a",
+			"date": "08-05-2021",
+			"available_capacity": 0,
+			"min_age_limit": 45,
+			"vaccine": "COVISHIELD",
+			"slots": ["09:00AM-11:00AM", "11:00AM-01:00PM", "01:00PM-03:00PM", "03:00PM-06:00PM"]
+		}]
+	}, {
+		"center_id": 186894,
+		"name": "PPC NH3 NIT 3",
+		"address": "PPC NH3 ESI Medical Collage",
+		"state_name": "Haryana",
+		"district_name": "Faridabad",
+		"block_name": "Faridabad",
+		"pincode": 121001,
+		"lat": 28,
+		"long": 77,
+		"from": "09:00:00",
+		"to": "18:00:00",
+		"fee_type": "Free",
+		"sessions": [{
+			"session_id": "b0cf138a-2a71-4f37-a597-ae11c469e077",
+			"date": "08-05-2021",
+			"available_capacity": 0,
+			"min_age_limit": 45,
+			"vaccine": "COVISHIELD",
+			"slots": ["09:00AM-11:00AM", "11:00AM-01:00PM", "01:00PM-03:00PM", "03:00PM-06:00PM"]
+		}]
+	}, {
+		"center_id": 572940,
+		"name": "ESIC Medical College NIT 3",
+		"address": "ESIC Medical College NIT 3",
+		"state_name": "Haryana",
+		"district_name": "Faridabad",
+		"block_name": "NH3",
+		"pincode": 121001,
+		"lat": 28,
+		"long": 77,
+		"from": "09:00:00",
+		"to": "14:00:00",
+		"fee_type": "Free",
+		"sessions": [{
+			"session_id": "5a4dcdbd-6774-491f-a138-662fbe7733b7",
+			"date": "08-05-2021",
+			"available_capacity": 1,
+			"min_age_limit": 45,
+			"vaccine": "COVISHIELD",
+			"slots": ["09:00AM-10:00AM", "10:00AM-11:00AM", "11:00AM-12:00PM", "12:00PM-02:00PM"]
+		}]
+	}, {
+		"center_id": 173580,
+		"name": "ESI 4 DISP NEAR NIT 1 MARKET",
+		"address": "NIT 1",
+		"state_name": "Haryana",
+		"district_name": "Faridabad",
+		"block_name": "Faridabad",
+		"pincode": 121001,
+		"lat": 28,
+		"long": 77,
+		"from": "10:00:00",
+		"to": "14:00:00",
+		"fee_type": "Free",
+		"sessions": [{
+			"session_id": "75d2ae2d-bf75-429a-97b7-8fd67ccd4b9f",
+			"date": "08-05-2021",
+			"available_capacity": 0,
+			"min_age_limit": 18,
+			"vaccine": "COVISHIELD",
+			"slots": ["10:00AM-11:00AM", "11:00AM-12:00PM", "12:00PM-01:00PM", "01:00PM-02:00PM"]
+		}]
+	}, {
+		"center_id": 173579,
+		"name": "ESI 3 DISP NEAR FISH MARKET",
+		"address": "NIT 5-4 CHOWK",
+		"state_name": "Haryana",
+		"district_name": "Faridabad",
+		"block_name": "Faridabad",
+		"pincode": 121001,
+		"lat": 28,
+		"long": 77,
+		"from": "09:00:00",
+		"to": "18:00:00",
+		"fee_type": "Free",
+		"sessions": [{
+			"session_id": "6baa6ab9-980b-40bd-b38d-fe3118d03ab6",
+			"date": "08-05-2021",
+			"available_capacity": 10,
+			"min_age_limit": 45,
+			"vaccine": "COVISHIELD",
+			"slots": ["09:00AM-11:00AM", "11:00AM-01:00PM", "01:00PM-03:00PM", "03:00PM-06:00PM"]
+		}]
+	}, {
+		"center_id": 554255,
+		"name": "PPC ESIC Collage Old Building",
+		"address": "NH3 ESI Medical Collage Old Building",
+		"state_name": "Haryana",
+		"district_name": "Faridabad",
+		"block_name": "Faridabad",
+		"pincode": 121001,
+		"lat": 28,
+		"long": 77,
+		"from": "10:00:00",
+		"to": "14:30:00",
+		"fee_type": "Free",
+		"sessions": [{
+			"session_id": "5938265d-bf63-4958-945c-83918964825b",
+			"date": "08-05-2021",
+			"available_capacity": 0,
+			"min_age_limit": 18,
+			"vaccine": "COVISHIELD",
+			"slots": ["10:00AM-11:00AM", "11:00AM-12:00PM", "12:00PM-01:00PM", "01:00PM-02:30PM"]
+		}]
+	}]
+}
